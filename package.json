@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "defender-game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noisydimon/New-board-game-project.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Tsyguro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noisydimon/New-board-game-project/issues"
+  },
+  "homepage": "https://github.com/noisydimon/New-board-game-project#readme"
+}
